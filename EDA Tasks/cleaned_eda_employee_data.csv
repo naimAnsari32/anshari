@@ -1,0 +1,15 @@
+Employee_ID,Name,Age,Department,Salary,Joining_Date,City
+101,John Doe,28,IT,50000,6/15/2018,New York
+102,Jane Smith,32,HR,60000,9/23/2016,Los Angeles
+103,Emily Davis,45,Finance,80000,11/4/2012,Chicago
+104,Michael Brown,29,IT,55000,7/12/2019,New York
+105,Chris Wilson,35,Marketing,62000,3/19/2015,San Francisco
+106,Sarah Johnson,40,HR,72000,5/28/2014,Los Angeles
+107,David Lee,50,Finance,95000,12/17/2010,Chicago
+108,Robert White,27,Marketing,49000,8/1/2020,San Francisco
+109,Unknown,30,IT,54000,11/12/2019,New York
+110,Liam Green,29,Finance,67153.84615,2/14/2011,Chicago
+111,John Doe,28,IT,50000,6/15/2018,New York
+112,Anna Taylor,25,HR,70000,8/10/2015,Los Angeles
+113,Ethan Black,31,IT,56000,5/14/2017,New York
+114,Olivia Carter,40,Finance,120000,9/9/2009,Chicago
