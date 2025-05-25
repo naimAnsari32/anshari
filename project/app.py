@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import pandas as pd
 
-st.title("Linear Regression - Value for real home")
+st.title("Linear Regression - Value for your home")
 
 # CSV से वास्तविक डेटा लोड करना (उदाहरण के लिए)
 df = pd.read_csv('https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv')
